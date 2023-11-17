@@ -1,10 +1,10 @@
 <h1>Hi there 👋</h1>
 
 ### about me
-- 🔭 I’m currently working on some Open source projects related to Embedded systems and Linux
-- 🌱 I’m currently learning Embedded Linux, Java, Rust
-- 💬 Ask me about | Embedded systems & PCB Design | Cyber Security | Python | C/C++| GDB & CMake | C# (Unity) | Bash | web
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on some Open source projects related to <b>Embedded systems and Linux</b>
+- 🌱 I’m currently learning <b>Embedded Linux, Java, Rust</b>
+- 💬 Ask me about <b>| Embedded systems & PCB Design | Cyber Security | Python | C/C++| GDB & CMake | C# (Unity) | Bash | web</b>
+- 😄 Pronouns: <b>he/him</b>
 
 ### My Profile Visitors 
 <img align="left" src = "https://profile-counter.glitch.me/zoroxide/count.svg" alt ="Loading">
