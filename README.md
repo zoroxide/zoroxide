@@ -3,7 +3,7 @@
 ### about me
 - 🔭 I’m currently working on some Open source projects related to <b>Embedded systems and Linux</b>
 - 🌱 I’m currently learning <b>Embedded Linux, Java, Rust</b>
-- 💬 Ask me about <b>| Embedded systems & PCB Design | Cyber Security | Python | C/C++| GDB & CMake | C# (Unity) | Bash | web</b>
+- 💬 Ask me about <b>| Embedded systems & PCB Design | Cyber Security | Python | C/C++ & GDB & CMake | C# (Unity) | Bash | web</b>
 - 😄 Pronouns: <b>he/him</b>
 
 ### My Profile Visitors 
