@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go, Rust and Some PCB Design Tricks**
 
-- 📝 I regularly write articles on <a>zoroxide.medium.com</a>
+- 📝 I regularly write articles on <p><a>zoroxide.medium.com</a></p>
 
 - 💬 Ask me about **Anything in my Subtitle :)**
 
