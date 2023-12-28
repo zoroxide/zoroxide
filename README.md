@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">Embedded systems | PCB | Linux | IoT | Cyber Security | Python | C/C++ & GDB & CMake | C# (Unity) | Bash | web</h3>
+<h3 align="center">Embedded SW Engineer | Linux Kernel Developer | Robotics & AI Hobbyist | Cybersecurity Expert</h3>
 
 <p>My Profile Visitors</p>
 <img align="center" src = "https://profile-counter.glitch.me/zoroxide/count.svg" alt ="Loading">
