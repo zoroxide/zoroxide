@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">Embedded SW Engineer | Linux Kernel Developer | Robotics & AI Hobbyist | Cybersecurity Expert</h3>
+<h3 align="center">Embedded Systems | PCB | Robotics | Linux | Cybersecurity | C/C++ | Python</h3>
 
 <p>My Profile Visitors</p>
 <img align="center" src = "https://profile-counter.glitch.me/zoroxide/count.svg" alt ="Loading">
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoroxide" alt="zoroxide" /></a> </p>
 
-- 🔭 I’m currently working on **Open source projects related to Embedded systems and Linux**
+- 🔭 I’m currently working on **Open source projects and Articles**
 
-- 🌱 I’m currently learning **Go, Rust and Some PCB Design Tricks**
+- 🌱 I’m currently learning **Go and Rust**
 
 - 📝 I regularly write articles on [Medium](https://zoroxide.medium.com)
 
 - 💬 Ask me about **Anything in my Subtitle :)**
 
-- ⚡ Fun fact **I'm an 1st Level Computer Science Student :D**
+- ⚡ Fun fact **I Don't use arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
