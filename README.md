@@ -24,6 +24,6 @@
 <a href="https://www.hackerrank.com/loaym97710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="loaym97710" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/zoroxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zoroxide" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoroxide&show_icons=true&locale=en" alt="zoroxide" />
+<h3 align="left">GitHub stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoroxide&show_icons=true&locale=en" alt="zoroxide" /><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoroxide" alt="zoroxide" /></a> </p>
