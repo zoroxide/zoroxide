@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Open source projects and Articles**
 
-- 🌱 I’m currently learning **Go and Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [Medium](https://zoroxide.medium.com)
 
